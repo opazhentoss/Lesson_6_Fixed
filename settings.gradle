@@ -16,3 +16,5 @@ rootProject.name = "Lesson_6_Fixed"
 include ':app'
 include ':securesharedpreference'
 include ':internalfilestorage'
+include ':notebook'
+include ':employeedb'
